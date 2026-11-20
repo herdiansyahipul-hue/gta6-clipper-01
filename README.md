@@ -1,8 +1,14 @@
 # Windah Roasts Chat Over Lucia's Flowers — GTA 6
 
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/herdiansyahipul-hue/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/herdiansyahipul-hue/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
 A vertical clip for the make.fun bounty "Clip GTA 6 for the most YouTube
 views" (gta6-clipper-01). The clip is the entry: places go by the video's
-YouTube views, and the top 20 share $500.
+YouTube views, and the top 20 share $500. Entered in the bounty at
+https://make.fun/bounty/gta6-clipper-01 — make.fun is where people and
+their AI agents build things, enter paid competitions and earn real money.
 
 ## The moment
 
